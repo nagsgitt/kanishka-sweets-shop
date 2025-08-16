@@ -1,0 +1,152 @@
+[
+  {
+    "id": "p1",
+    "name": "Putharekulu (Paper Sweet)",
+    "img": "https://images.unsplash.com/photo-1617191511969-6d3b6b3e7c7f?q=80&w=1200&auto=format&fit=crop",
+    "variants": [
+      {
+        "label": "250g",
+        "price": 150
+      },
+      {
+        "label": "500g",
+        "price": 280
+      }
+    ]
+  },
+  {
+    "id": "p2",
+    "name": "Bandar Laddu",
+    "img": "https://images.unsplash.com/photo-1544025162-d76694265947?q=80&w=1200&auto=format&fit=crop",
+    "variants": [
+      {
+        "label": "250g",
+        "price": 180
+      },
+      {
+        "label": "500g",
+        "price": 340
+      }
+    ]
+  },
+  {
+    "id": "p3",
+    "name": "Ariselu",
+    "img": "https://images.unsplash.com/photo-1542827638-6d0f2c6b8b3a?q=80&w=1200&auto=format&fit=crop",
+    "variants": [
+      {
+        "label": "250g",
+        "price": 120
+      },
+      {
+        "label": "500g",
+        "price": 220
+      }
+    ]
+  },
+  {
+    "id": "p4",
+    "name": "Pootharekulu - Dry Fruit",
+    "img": "https://images.unsplash.com/photo-1604152135912-04a2a8f4ca3b?q=80&w=1200&auto=format&fit=crop",
+    "variants": [
+      {
+        "label": "250g",
+        "price": 220
+      },
+      {
+        "label": "500g",
+        "price": 420
+      }
+    ]
+  },
+  {
+    "id": "p5",
+    "name": "Mysore Pak (Andhra style)",
+    "img": "https://images.unsplash.com/photo-1601004890684-d8cbf643f5f2?q=80&w=1200&auto=format&fit=crop",
+    "variants": [
+      {
+        "label": "250g",
+        "price": 140
+      },
+      {
+        "label": "500g",
+        "price": 260
+      }
+    ]
+  },
+  {
+    "id": "p6",
+    "name": "Kobbari Undalu (Coconut Laddu)",
+    "img": "https://images.unsplash.com/photo-1640130381773-4b2b0f1410f0?q=80&w=1200&auto=format&fit=crop",
+    "variants": [
+      {
+        "label": "250g",
+        "price": 110
+      },
+      {
+        "label": "500g",
+        "price": 200
+      }
+    ]
+  },
+  {
+    "id": "p7",
+    "name": "Janthikalu (Murukku)",
+    "img": "https://images.unsplash.com/photo-1604908177522-8edc8d7c6b8f?q=80&w=1200&auto=format&fit=crop",
+    "variants": [
+      {
+        "label": "250g",
+        "price": 90
+      },
+      {
+        "label": "500g",
+        "price": 170
+      }
+    ]
+  },
+  {
+    "id": "p8",
+    "name": "Chekkalu",
+    "img": "https://images.unsplash.com/photo-1542831371-d531d36971e6?q=80&w=1200&auto=format&fit=crop",
+    "variants": [
+      {
+        "label": "250g",
+        "price": 80
+      },
+      {
+        "label": "500g",
+        "price": 150
+      }
+    ]
+  },
+  {
+    "id": "p9",
+    "name": "Minapa Vada (Dry Pack)",
+    "img": "https://images.unsplash.com/photo-1565958011703-44f9829ba187?q=80&w=1200&auto=format&fit=crop",
+    "variants": [
+      {
+        "label": "250g",
+        "price": 100
+      },
+      {
+        "label": "500g",
+        "price": 190
+      }
+    ]
+  },
+  {
+    "id": "p10",
+    "name": "Nuvvula Laddu (Sesame Laddu)",
+    "img": "https://images.unsplash.com/photo-1572441710268-3a9f3d3b2a5e?q=80&w=1200&auto=format&fit=crop",
+    "variants": [
+      {
+        "label": "250g",
+        "price": 100
+      },
+      {
+        "label": "500g",
+        "price": 190
+      }
+    ]
+  }
+]
